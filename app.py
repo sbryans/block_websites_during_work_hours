@@ -38,4 +38,4 @@ while True:
                     new_hosts.write(line)
         shutil.move('/home/hosts', '/etc/hosts')
         print("Free time.")
-        time.sleep(5)
+        time.sleep(120)
