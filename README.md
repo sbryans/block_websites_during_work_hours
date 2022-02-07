@@ -17,3 +17,5 @@ sudo python app.py
 > The app assumes a block on Facebook between the hours of 7:00 & 17:00, every day of the week as this app is designed to be installed an office machine.
 
 > Use freely, responsibly & at your own discretion.
+
+https://youtu.be/EsO2H0S3uFk
